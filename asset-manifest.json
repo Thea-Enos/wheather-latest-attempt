@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wheather-latest-attempt/static/css/main.26c0ad96.chunk.css",
+    "main.js": "/wheather-latest-attempt/static/js/main.97c6bdfc.chunk.js",
+    "main.js.map": "/wheather-latest-attempt/static/js/main.97c6bdfc.chunk.js.map",
+    "runtime~main.js": "/wheather-latest-attempt/static/js/runtime~main.f5adc0b5.js",
+    "runtime~main.js.map": "/wheather-latest-attempt/static/js/runtime~main.f5adc0b5.js.map",
+    "static/js/2.7b3eb6e7.chunk.js": "/wheather-latest-attempt/static/js/2.7b3eb6e7.chunk.js",
+    "static/js/2.7b3eb6e7.chunk.js.map": "/wheather-latest-attempt/static/js/2.7b3eb6e7.chunk.js.map",
+    "index.html": "/wheather-latest-attempt/index.html",
+    "precache-manifest.5107bd5317faf2a723e297460c871124.js": "/wheather-latest-attempt/precache-manifest.5107bd5317faf2a723e297460c871124.js",
+    "service-worker.js": "/wheather-latest-attempt/service-worker.js",
+    "static/css/main.26c0ad96.chunk.css.map": "/wheather-latest-attempt/static/css/main.26c0ad96.chunk.css.map"
+  }
+}
